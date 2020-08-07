@@ -1,2 +1,2 @@
 # Machine-learning
-Projects to develop skills in machine learning.
+Projects to develop skills in machine learning
