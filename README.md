@@ -1,2 +1,2 @@
-# Machine-learning
-Projects to develop skills in machine learning.
+# Logistic regression
+Predicting breast cancer with logistic regression.
